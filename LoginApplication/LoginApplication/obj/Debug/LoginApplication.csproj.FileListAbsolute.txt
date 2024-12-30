@@ -1,0 +1,5 @@
+D:\Asp.Net\Project1\LoginApplication\LoginApplication\bin\LoginApplication.dll
+D:\Asp.Net\Project1\LoginApplication\LoginApplication\bin\LoginApplication.pdb
+D:\Asp.Net\Project1\LoginApplication\LoginApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Asp.Net\Project1\LoginApplication\LoginApplication\obj\Debug\LoginApplication.dll
+D:\Asp.Net\Project1\LoginApplication\LoginApplication\obj\Debug\LoginApplication.pdb
