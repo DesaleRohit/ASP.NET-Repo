@@ -1,0 +1,5 @@
+D:\Asp.Net\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Asp.Net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Asp.Net\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Asp.Net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Asp.Net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
