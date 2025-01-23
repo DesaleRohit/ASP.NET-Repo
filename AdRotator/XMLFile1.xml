@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/meteor.jpg</ImageUrl>
+    <NavigateUrl>https://www.royalenfield.com/in/en/home/</NavigateUrl>
+    <Height>300</Height>
+    <Width>300</Width>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/thar.jpg</ImageUrl>
+    <NavigateUrl>https://auto.mahindra.com/suv/thar/THRN.html</NavigateUrl>
+    <Height>300</Height>
+    <Width>300</Width>
+  </Ad>
+</Advertisements>
