@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net\\CalendarDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FA8F94-DCE5-4844-BEF3-0F34B505BB05}|CalendarDemo.csproj|d:\\asp.net\\calendardemo\\calendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{56FA8F94-DCE5-4844-BEF3-0F34B505BB05}|CalendarDemo.csproj|solutionrelative:calendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FA8F94-DCE5-4844-BEF3-0F34B505BB05}|CalendarDemo.csproj|d:\\asp.net\\calendardemo\\calendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FA8F94-DCE5-4844-BEF3-0F34B505BB05}|CalendarDemo.csproj|solutionrelative:calendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calendar.aspx.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\CalendarDemo\\Calendar.aspx.cs",
+              "RelativeDocumentMoniker": "Calendar.aspx.cs",
+              "ToolTip": "D:\\Asp.Net\\CalendarDemo\\Calendar.aspx.cs",
+              "RelativeToolTip": "Calendar.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:58:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calendar.aspx",
+              "DocumentMoniker": "D:\\Asp.Net\\CalendarDemo\\Calendar.aspx",
+              "RelativeDocumentMoniker": "Calendar.aspx",
+              "ToolTip": "D:\\Asp.Net\\CalendarDemo\\Calendar.aspx",
+              "RelativeToolTip": "Calendar.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-14T15:57:05.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
